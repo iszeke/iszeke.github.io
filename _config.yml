@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username:     None
 zhihu_username:     None
-github_username:    None
+github_username:    iszeke
 twitter_username:   None
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: zeke
+disqus_username: zhongkai qiu
 
 # Netease settings
 netease_comment: false
@@ -114,23 +114,5 @@ friends: [
     },{
         title: "Luke 的自留地",
         href: "http://hmqk1995.github.io"
-    },{
-        title: "Ebn's Blog",
-        href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "JiyinYiyong",
-        href: "http://tiye.me/"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
     }
 ]
