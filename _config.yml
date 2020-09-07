@@ -2,7 +2,7 @@
 title: Zeke
 SEOTitle: Zeke的博客 | Zeke Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zeke.qiu@gmail.com
 description: "这里是 @Zeke 的个人博客，与你一起发现更大的世界。"
 keyword: "Zeke, @Zeke, Zeke的博客, 博客, 个人网站, 互联网, 机器学习, 深度学习, 算法"
 url: "https://iszeke.github.io/"              # your host, for absolute URL
@@ -72,7 +72,7 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: auto
 
 
 
